@@ -1,4 +1,7 @@
-# Proyecto_10
+# Deblurring de imagen utilizando Depth Maps
+
+[Oscar Ortega](https://github.com/Nightcrawler9x), Jeferson Acevedo, Samuel Traslaviña
+
 # Dataset Simulado: 
 https://drive.google.com/file/d/1gIjf8KDoUY-dObftp32AXrTgtaDEw4ek/view?usp=sharing
 
