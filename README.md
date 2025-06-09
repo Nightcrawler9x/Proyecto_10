@@ -17,9 +17,23 @@ Este proyecto se enfoca en la **recuperación de imágenes nítidas a partir de 
 > **Objetivo:** Desarrollar un modelo que combine imágenes RGB y mapas de profundidad para mejorar el proceso de restauración visual.
 
 ---
+## Estructura del repositorio
 
-### Dataset Simulado  
+- `data/` — Notebooks para la preparación y carga de datos.
+- `images/` — Visualizaciones y resultados.
+- `loss/` — Funciones de pérdida utilizadas en el entrenamiento.
+- `models/` — Implementación de arquitecturas de modelos y archivos relacionados.
+- `notebooks/` — Experimentos, pruebas en notebooks de Jupyter.
+- `train/` — Scripts y lógica relacionados con el entrenamiento del modelo.
+  
+---
+
+###  NYU Depth Dataset
 🔗 [Enlace a Google Drive](https://drive.google.com/file/d/1gIjf8KDoUY-dObftp32AXrTgtaDEw4ek/view?usp=sharing)
+
+Compuesto por 1.449 pares de imágenes RGB y de profundidad alineadas (resolución de 640 × 480) de 464 escenas interiores diversas, capturadas por el sensor Microsoft Kinect.
+
+![image](https://github.com/user-attachments/assets/108e9709-4358-4e1d-8330-e1c7b13c2a0f)
 
 ---
 
@@ -30,6 +44,6 @@ https://drive.google.com/drive/folders/1AMCKyZD803UZ2YjOGmrm1tgSKhaU3YzF?usp=sha
 
 ---
 
-<img src="https://github.com/user-attachments/assets/336bc28d-5d5f-4965-9438-93e6aac102ed" alt="image" width="500"/>
+
 
 
